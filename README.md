@@ -1,5 +1,6 @@
 ### Hi, I´m Michelle 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<img src="https://user-images.githubusercontent.com/110858556/194791994-39bd709f-ac38-4171-94e7-686c220c09ec.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Desenho de uma bruxinha com seu dog">
 
 <br>
 <p align="left"> 
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/miixchelle/"/></a>
 </p>  
 
-<img src="https://user-images.githubusercontent.com/110858556/194791994-39bd709f-ac38-4171-94e7-686c220c09ec.png" width="400px" align="left" alt="Desenho de uma bruxinha com seu dog">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="left" alt="um desenho de um notebook com um copo">
 
 
 
