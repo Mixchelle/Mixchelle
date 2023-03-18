@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Michelle+Marquez;I'm+28+years+old;I'm+from+Brazil;I+study+web+Development+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -32,7 +31,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Thanks!+:%29)](https://git.io/typing-svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+
 
 
 
