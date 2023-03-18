@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b13583&height=120&section=header"/>
 
 # 💫 About Me:
 ### Hi, I´m Michelle 👋<br><br><img src="https://user-images.githubusercontent.com/110858556/194791994-39bd709f-ac38-4171-94e7-686c220c09ec.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Desenho de uma bruxinha com seu dog"><br><br><p align="left"><br># 💫 Ola, Me chamo Michelle e sou estudante de desenvolvimento web na Trybe. Sou apaixona por cachorros e por Harry Potter. Confira meus repositorios e veja alguns projetos que fiz<br><br><br>  </p><br>
@@ -26,3 +27,6 @@
 [![](https://visitcount.itsvg.in/api?id=mixchelle&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b13583&height=120&section=footer"/>
+
+
