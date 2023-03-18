@@ -30,3 +30,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b13583&height=120&section=footer"/>
 
 
+![Snake animation](https://github.com/Mixchelle/Mixchelle/blob/output/github-contribution-grid-snake.svg)
+
+
