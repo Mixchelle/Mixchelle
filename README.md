@@ -1,8 +1,23 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Michelle+Marquez;I'm+28+years+old;I'm+from+Brazil;I+study+web+Development+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Michelle+Marquez+!!)](https://git.io/typing-svg)
 
-<br><br><img src="https://user-images.githubusercontent.com/110858556/194791994-39bd709f-ac38-4171-94e7-686c220c09ec.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Desenho de uma bruxinha com seu dog"><br><br><p align="left"><br># 💫 Hello, My name is Michelle and I'm a web development student at Trybe. I'm in love with dogs and Harry Potter.<br><br><br>  </p><br>
+<br><br><img src="https://user-images.githubusercontent.com/110858556/194791994-39bd709f-ac38-4171-94e7-686c220c09ec.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Desenho de uma bruxinha com seu dog"><br><br><p align="left"><br>
 
+## Sobre mim 💫
+
+Olá! 👋 Meu nome é Michelle Marquez, tenho 28 anos e sou estudante de desenvolvimento web na Trybe 🎓. Desde que comecei a estudar programação, me apaixonei pela ideia de poder criar soluções para as pessoas e tornar suas vidas mais fáceis e melhores 💻.
+
+Minha jornada em desenvolvimento web começou há pouco mais de um ano e, desde então, venho trabalhando em diversos projetos e desenvolvendo minhas habilidades em HTML, CSS, JavaScript, React, Node.js, MySQL, Docker e muito mais 🚀. Sempre busco estar atualizada com as novas tecnologias e tendências, para poder criar projetos inovadores e eficientes 🔍.
+
+Tenho grande interesse em áreas como desenvolvimento web full-stack, desenvolvimento mobile, inteligência artificial e aprendizado de máquina, e estou sempre buscando aprender e me desenvolver nessas áreas 🤖. Meu objetivo é me tornar uma desenvolvedora altamente capacitada e contribuir para a criação de soluções inovadoras que possam mudar o mundo 🌍.
+
+## 🚀 Projetos
+Aqui estão alguns dos meus projetos mais recentes:
+
+- Portifolio 📚 - [link](https://github.com/Mixchelle/Portifolio) - Portifolio
+- Trivia 🎲 - [link](https://github.com/Mixchelle/Projeto-Trivia) - Projeto Trivia feito em grupo.
+
+<div align="center">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Miixchelle#0272) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/miixchelle) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miixchelle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mixchelle) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@miixcheelle) 
