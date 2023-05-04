@@ -20,12 +20,14 @@ Aqui estão alguns dos meus projetos mais recentes:
 - Trivia 🎲 - [link](https://github.com/Mixchelle/Projeto-Trivia) - Projeto Trivia feito em grupo.
 
   
-  ## 📱 Contatos:
-📧 Email: michelle.biologia@hotmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/mixchelle/
-📱 WhatsApp: +55 24 99249-4731
-📍 Location: Petrópolis/RJ, Brasil
+
 <div align="center">
+
+## 📱 Contatos:
+📧 Email: michelle.biologia@hotmail.com<br>
+🔗 LinkedIn: https://www.linkedin.com/in/mixchelle/<br>
+📱 WhatsApp: +55 24 99249-4731<br>
+📍 Location: Petrópolis/RJ, Brasil<br>
 
 
 
