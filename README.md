@@ -11,6 +11,8 @@ Minha jornada em desenvolvimento web começou há pouco mais de um ano e, desde 
 
 Tenho grande interesse em áreas como desenvolvimento web full-stack, desenvolvimento mobile, inteligência artificial e aprendizado de máquina, e estou sempre buscando aprender e me desenvolver nessas áreas 🤖. Meu objetivo é me tornar uma desenvolvedora altamente capacitada e contribuir para a criação de soluções inovadoras que possam mudar o mundo 🌍.
 
+
+
 ## 🚀 Projetos
 Aqui estão alguns dos meus projetos mais recentes:
 
@@ -18,6 +20,12 @@ Aqui estão alguns dos meus projetos mais recentes:
 - Trivia 🎲 - [link](https://github.com/Mixchelle/Projeto-Trivia) - Projeto Trivia feito em grupo.
 
 <div align="center">
+
+## 📱 Contatos:
+📧 Email: michelle.biologia@hotmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/mixchelle/
+📱 WhatsApp: +55 24 99249-4731
+📍 Location: Petrópolis/RJ, Brasil
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Miixchelle#0272) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/miixchelle) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miixchelle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mixchelle) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@miixcheelle) 
