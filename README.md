@@ -25,18 +25,10 @@ Além disso, atuo como líder de projetos, o que me permite aprimorar minhas hab
 
 ## 💛 Objetivos 
 
-Meu objetivo é me tornar uma desenvolvedora altamente capacitada e contribuir para a criação de soluções inovadoras que possam mudar o mundo 🌍.
-<br>
+Quero ser uma especialista em desenvolvimento de software focada no front-end. Meu objetivo é criar websites e aplicativos incríveis, tornando a experiência do usuário mais intuitiva e agradável. Quero aprender continuamente e trabalhar em projetos que possam fazer a diferença no mundo, trazendo inovação e melhorando a vida das pessoas.<br>
 
 
-## 💜 Projetos
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- Portifolio 📚 - link - Portifolio
-- Trivia 🎲 - link - Projeto Trivia feito em grupo.
 <br><br>
-
 
 
 <div align="center">
