@@ -5,11 +5,11 @@
 
 ## Sobre mim 💫
 
-Olá! 👋 Meu nome é Michelle Marquez, tenho 28 anos e sou estudante de desenvolvimento web na Trybe 🎓. Desde que comecei a estudar programação, me apaixonei pela ideia de poder criar soluções para as pessoas e tornar suas vidas mais fáceis e melhores 💻.
+Olá! 👋 Meu nome é Michelle Marquez, tenho 28 anos e sou formada em desenvolvimento web pela Trybe 🎓. Atualmente, estou estudando engenharia de software na Unopar. Trabalho como desenvolvedora front-end na Tizza há 1 ano, utilizando tecnologias como Angular, Node, AWS, MongoDB, SQL e TypeScript.
 
-Minha jornada em desenvolvimento web começou há pouco mais de um ano e, desde então, venho trabalhando em diversos projetos e desenvolvendo minhas habilidades em HTML, CSS, JavaScript, React, Node.js, MySQL, Docker e muito mais 🚀. Sempre busco estar atualizada com as novas tecnologias e tendências, para poder criar projetos inovadores e eficientes 🔍.
+Minha jornada em desenvolvimento web começou há pouco mais de um ano e, desde então, venho trabalhando em diversos projetos e desenvolvendo minhas habilidades. Sempre busco estar atualizada com as novas tecnologias e tendências, para poder criar projetos inovadores e eficientes 🔍.
 
-Tenho grande interesse em áreas como desenvolvimento web full-stack, desenvolvimento mobile, inteligência artificial e aprendizado de máquina, e estou sempre buscando aprender e me desenvolver nessas áreas 🤖. Meu objetivo é me tornar uma desenvolvedora altamente capacitada e contribuir para a criação de soluções inovadoras que possam mudar o mundo 🌍.
+Além disso, atuo como líder de projetos, o que me permite aprimorar minhas habilidades de gestão e trabalho em equipe. Tenho grande interesse em áreas como desenvolvimento web full-stack, desenvolvimento mobile, inteligência artificial e aprendizado de máquina, e estou sempre buscando aprender e me desenvolver nessas áreas 🤖. Meu objetivo é me tornar uma desenvolvedora altamente capacitada e contribuir para a criação de soluções inovadoras que possam mudar o mundo 🌍.
 
 
 
