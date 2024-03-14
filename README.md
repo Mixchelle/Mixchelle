@@ -1,25 +1,40 @@
 
+<div>
+<img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/9de57376-b020-4207-8d91-72cb1806e9e0" alt="Header Image" style="width:110%; heigth: 300px">
+</div>
+<br><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Michelle+Marquez+!!)](https://git.io/typing-svg)
 
 <br><br><img src="https://user-images.githubusercontent.com/110858556/194791994-39bd709f-ac38-4171-94e7-686c220c09ec.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Desenho de uma bruxinha com seu dog"><br><br><p align="left"><br>
 
-## Sobre mim 💫
+## 💜 Sobre Mim 
 
-Olá! 👋 Meu nome é Michelle Marquez, tenho 28 anos e sou formada em desenvolvimento web pela Trybe 🎓. Atualmente, estou estudando engenharia de software na Unopar. Trabalho como desenvolvedora front-end na Tizza há 1 ano, utilizando tecnologias como Angular, Node, AWS, MongoDB, SQL e TypeScript.
+Olá! 👋 Meu nome é **Michelle Marquez**, tenho 28 anos e sou formada em desenvolvimento web pela Trybe 🎓. Atualmente, estou estudando engenharia de software na Unopar. Trabalho como desenvolvedora front-end na Tizza há 1 ano, utilizando tecnologias como Angular, Node, AWS, MongoDB, SQL e TypeScript.
+
+## 💛 Minha Jornada 
 
 Minha jornada em desenvolvimento web começou há pouco mais de um ano e, desde então, venho trabalhando em diversos projetos e desenvolvendo minhas habilidades. Sempre busco estar atualizada com as novas tecnologias e tendências, para poder criar projetos inovadores e eficientes 🔍.
 
-Além disso, atuo como líder de projetos, o que me permite aprimorar minhas habilidades de gestão e trabalho em equipe. Tenho grande interesse em áreas como desenvolvimento web full-stack, desenvolvimento mobile, inteligência artificial e aprendizado de máquina, e estou sempre buscando aprender e me desenvolver nessas áreas 🤖. Meu objetivo é me tornar uma desenvolvedora altamente capacitada e contribuir para a criação de soluções inovadoras que possam mudar o mundo 🌍.
+## 💜 Liderança 
 
+Além disso, atuo como líder de projetos, o que me permite aprimorar minhas habilidades de gestão e trabalho em equipe. Tenho grande interesse em áreas como desenvolvimento web full-stack, desenvolvimento mobile, inteligência artificial e aprendizado de máquina, e estou sempre buscando aprender e me desenvolver nessas áreas 🤖. 
 
+## 💛 Objetivos 
 
-## 🚀 Projetos
+Meu objetivo é me tornar uma desenvolvedora altamente capacitada e contribuir para a criação de soluções inovadoras que possam mudar o mundo 🌍.
+<br>
+<img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/ca4586e1-2be1-420d-b10a-39de90f4e719" min-width="300px" max-width="300px" width="300px" align="left" alt="Desenho de uma bruxinha com seu dog">
+
+## 💜 Projetos
+
 Aqui estão alguns dos meus projetos mais recentes:
 
-- Portifolio 📚 - [link](https://github.com/Mixchelle/Portifolio) - Portifolio
-- Trivia 🎲 - [link](https://github.com/Mixchelle/Projeto-Trivia) - Projeto Trivia feito em grupo.
+- Portifolio 📚 - link - Portifolio
+- Trivia 🎲 - link - Projeto Trivia feito em grupo.
+<br><br>
 
-  
+
 
 <div align="center">
 
@@ -54,7 +69,10 @@ Aqui estão alguns dos meus projetos mais recentes:
 ---
 [![](https://visitcount.itsvg.in/api?id=mixchelle&icon=3&color=0)](https://visitcount.itsvg.in)
 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/f547c468-2152-4611-80ed-59d8e90df7e5" alt="6fd4be809fbda2380b026530749d43da" width="150px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Thanks!+:%29)](https://git.io/typing-svg)
 
