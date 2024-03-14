@@ -15,16 +15,19 @@ Olá! 👋 Meu nome é **Michelle Marquez**, tenho 28 anos e sou formada em dese
 ## 💛 Minha Jornada 
 
 Minha jornada em desenvolvimento web começou há pouco mais de um ano e, desde então, venho trabalhando em diversos projetos e desenvolvendo minhas habilidades. Sempre busco estar atualizada com as novas tecnologias e tendências, para poder criar projetos inovadores e eficientes 🔍.
-
+<img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/ca4586e1-2be1-420d-b10a-39de90f4e719" min-width="300px" max-width="300px" width="300px" align="left" alt="Desenho de uma bruxinha com seu dog">
 ## 💜 Liderança 
 
 Além disso, atuo como líder de projetos, o que me permite aprimorar minhas habilidades de gestão e trabalho em equipe. Tenho grande interesse em áreas como desenvolvimento web full-stack, desenvolvimento mobile, inteligência artificial e aprendizado de máquina, e estou sempre buscando aprender e me desenvolver nessas áreas 🤖. 
+
+<img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/5a330c48-a411-4d80-a016-34a8a7d6f850" min-width="300px" max-width="300px" width="300px" align="right" alt="Desenho de uma bruxinha com seu dog">
+
 
 ## 💛 Objetivos 
 
 Meu objetivo é me tornar uma desenvolvedora altamente capacitada e contribuir para a criação de soluções inovadoras que possam mudar o mundo 🌍.
 <br>
-<img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/ca4586e1-2be1-420d-b10a-39de90f4e719" min-width="300px" max-width="300px" width="300px" align="left" alt="Desenho de uma bruxinha com seu dog">
+
 
 ## 💜 Projetos
 
