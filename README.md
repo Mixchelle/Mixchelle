@@ -55,7 +55,7 @@ I aim to become a software development specialist focused on front-end. My goal 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mixchelle&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mixchelle&label=Profile%20Views&color=10&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/f547c468-2152-4611-80ed-59d8e90df7e5" alt="6fd4be809fbda2380b026530749d43da" width="150px">
