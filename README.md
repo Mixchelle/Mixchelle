@@ -1,5 +1,10 @@
 <div>
-<img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/9de57376-b020-4207-8d91-72cb1806e9e0" alt="Header Image" style="width:110%; height: 300px">
+<img width="2560" height="400" alt="Banner para youtube de personal trainer amarelo e preto moderno e grunge (1)" src="https://github.com/user-attachments/assets/112f6461-f6b9-4949-b690-61c158411e4f" />
+
+
+
+
+<!-- <img src="https://github.com/Mixchelle/Mixchelle/assets/110858556/9de57376-b020-4207-8d91-72cb1806e9e0" alt="Header Image" style="width:110%; height: 300px"> -->
 </div>
 <br><br>
 
