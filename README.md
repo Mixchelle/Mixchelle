@@ -10,7 +10,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Michelle+Marquez+!!)](https://git.io/typing-svg)
 
-<br><br><img src="https://user-images.githubusercontent.com/110858556/194791994-39bd709f-ac38-4171-94e7-686c220c09ec.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Drawing of a little witch with her dog"><br><br><p align="left"><br>
+<img src="https://github.com/user-attachments/assets/f9c6cf23-3c4d-4cb2-83e0-810c49d0c08b" min-width="400px" max-width="400px" width="400px" align="right" alt="Drawing of a little witch with her dog"><br><br><p align="left"><br>
+
+<!-- <br><br><img src="https://user-images.githubusercontent.com/110858556/194791994-39bd709f-ac38-4171-94e7-686c220c09ec.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Drawing of a little witch with her dog"><br><br><p align="left"><br> -->
 
 ## 💜 About Me
 
