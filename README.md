@@ -41,7 +41,6 @@ I aim to become a software development specialist focused on front-end. My goal 
 
 ## 📱 Contacts:
 📧 Email: michelle.biologia@hotmail.com<br>
-📱 WhatsApp: +55 24 99249-4731<br>
 📍 Location: Petrópolis/RJ, Brazil<br>
 
 ## 🌐 Socials:
